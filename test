@@ -1,0 +1,1 @@
+fetch('https://www.doctolib.fr/account.json', {method: 'PUT', headers: {'Accept': 'application/json, */*', 'Content-Type': 'application/json'}, body: '{"account":{"email":"saad.lamdouar@gmai.com","phone_number":"06 16 20 94 47"}}'})
